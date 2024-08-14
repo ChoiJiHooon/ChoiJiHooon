@@ -20,9 +20,14 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiJiHooon" />
   </a>
   <br />
+  <br />
   <a href="https://github.com/anuraghazra&show_icons=true&theme=radical">
     <img src="https://github-readme-stats.vercel.app/api?username=ChoiJiHooon" />
   </a>
+  <br />
+  <br />
+  <h2> My Language </h2>
+  <br />
   <br />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
