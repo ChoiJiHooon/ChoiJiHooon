@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiJiHooon)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiJiHooon)](https://github.com/anuraghazra&show_icons=true&theme=radical)
 <br>
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
