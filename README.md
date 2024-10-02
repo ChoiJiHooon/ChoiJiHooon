@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiJiHooon" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prin81208" />
   </a>
   <br />
   <br />
