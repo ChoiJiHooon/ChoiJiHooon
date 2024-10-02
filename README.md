@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**ChoiJiHooon/ChoiJiHooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**prin81208/prin81208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
